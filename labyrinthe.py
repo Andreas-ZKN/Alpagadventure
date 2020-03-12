@@ -1,7 +1,5 @@
 import sys, pygame
 pygame.init
-import random
-import time
 
 size = width, height = 800, 600
 
